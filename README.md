@@ -23,9 +23,9 @@ For all "Ground" cables, use a hub.
 
 ## Code
 
-Flash the D1 Mini with MicroPython: [Tutorial](https://www.wemos.cc/en/latest/tutorials/d1/get_started_with_micropython_d1.html)
-Download Thonny IDE: [Download](https://thonny.org/)
-Connect your D1 to your PC and select it in the bottom right of the IDE.
-Open the Python file, save it on the D1, and name it main.py.
+- Flash the D1 Mini with MicroPython: [Tutorial](https://www.wemos.cc/en/latest/tutorials/d1/get_started_with_micropython_d1.html)
+- Download Thonny IDE: [Download](https://thonny.org/)
+- Connect your D1 to your PC and select it in the bottom right of the IDE.
+- Open the Python file, save it on the D1, and name it main.py.
 
 If everything is wired correctly, it should function properly now.
