@@ -29,5 +29,3 @@ For all "Ground" cables, use a hub.
 - Open the Python file, save it on the D1, and name it main.py.
 
 If everything is wired correctly, it should function properly now.
-
-<a href="https://www.makershop.de/plattformen/d1-mini/wemos-d1-mini/" target="_blank">Link</a>
