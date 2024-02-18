@@ -29,3 +29,6 @@ For all "Ground" cables, use a hub.
 - Open the Python file, save it on the D1, and name it main.py.
 
 If everything is wired correctly, it should function properly now.
+
+
+<img src="https://i.imgur.com/nIxEUt0.jpg" alt="Markdown Monster icon" style="border-radius: 10px;" />
